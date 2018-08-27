@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- rhel7 ----------
 # Above line is mandatory!
 # rules to build rpm package for Red Hat linux 7 / Centos 7

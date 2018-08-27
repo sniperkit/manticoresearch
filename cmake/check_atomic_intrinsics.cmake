@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #find if the sync functions are available
 set ( _CHECK_INTERLOCKED_PROG "
 int interlocked_routine ( )

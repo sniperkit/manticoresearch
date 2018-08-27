@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 MYSQL_STORAGE_ENGINE(sphinx,,  [Sphinx Storage Engine],
         [Sphinx Storage Engines], [max,max-no-ndb])
 MYSQL_PLUGIN_DIRECTORY(sphinx, [storage/sphinx])

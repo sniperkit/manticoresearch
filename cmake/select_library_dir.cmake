@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # We expect that all libs necessary on win32 to build sphinx are located in subfolders of one folder
 # This folder must be set in the config, and then we try to figure exact libs from the path
 # like having all in c:/work, we can investigate c:/work/mysql, c:/work/expat*, etc to find headers and libs,

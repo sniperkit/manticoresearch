@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- jessie ----------
 # Above line is mandatory!
 # rules to build deb package for Debian jessie

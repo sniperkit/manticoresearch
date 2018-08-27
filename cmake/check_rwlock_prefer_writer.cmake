@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #find if PTHREAD_RWLOCK_PREFER_WRITER_NONRECURSIVE_NP flag is available
 set ( _CHECK_RWLOCK_PREFER_WRITER_PROG "
 #include <pthread.h>

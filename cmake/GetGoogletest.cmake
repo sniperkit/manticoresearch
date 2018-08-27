@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Download and unpack googletest at configure time
 
 # allow to get googletest from bundle also

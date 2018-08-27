@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- macos ----------
 # Above line is mandatory!
 # rules to build tgz archive for Mac OS X

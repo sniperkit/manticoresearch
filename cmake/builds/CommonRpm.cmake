@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Common rpm-specific build variables
 set ( CPACK_GENERATOR "RPM" )
 set ( CPACK_RPM_USER_BINARY_SPECFILE "${CMAKE_CURRENT_SOURCE_DIR}/dist/rpm/manticore.spec.in" )

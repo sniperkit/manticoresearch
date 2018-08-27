@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- trusty ----------
 # Above line is mandatory!
 # rules to build deb package for Ubuntu 14.04 (Trusty)

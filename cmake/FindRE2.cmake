@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #.rst:
 # FindRE2
 # --------------

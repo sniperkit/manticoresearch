@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- default ----------
 # Above line is mandatory!
 # rules to build default zip archive

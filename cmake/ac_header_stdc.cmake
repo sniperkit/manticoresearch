@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # analogue of AC_HEADER_STDC automake macro.
 # refactored a bit from https://github.com/LuaDist/libgd/blob/master/cmake/modules/AC_HEADER_STDC.cmake
 

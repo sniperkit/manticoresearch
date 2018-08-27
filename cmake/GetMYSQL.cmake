@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #=============================================================================
 # Copyright 2017-2018, Manticore Software LTD (http://manticoresearch.com)
 #

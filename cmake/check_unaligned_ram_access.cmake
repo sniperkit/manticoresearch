@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #find if the unaligned RAM access is possible on the build system
 if ( "${CMAKE_CXX_COMPILER_ID}" STREQUAL "GNU" OR CMAKE_CXX_COMPILER_ID MATCHES "Clang" )
 	set ( _CHECK_UNALIGNED_PROG "

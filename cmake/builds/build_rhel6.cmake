@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- rhel6 ----------
 # Above line is mandatory!
 # rules to build rpm package for Red Hat linux 6 / Centos 6

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 @SYSCONFDIR@/default/manticore
 @SYSCONFDIR@/init/manticore.conf
 @SYSCONFDIR@/sphinxsearch/sphinx.conf

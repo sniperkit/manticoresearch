@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #   Copyright (c) 2008, 2010, Oracle and/or its affiliates. All rights reserved.
 #
 #   The MySQL Connector/C++ is licensed under the terms of the GPLv2

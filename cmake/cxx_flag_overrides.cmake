@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # it defines default compiler flags (specifically /MT instead of default /MD) for windows builds
 if ( MSVC )
 	set ( CMAKE_CXX_FLAGS_DEBUG_INIT "/D_DEBUG /MTd /Zi /Ob0 /Od /RTC1 /GR-" )

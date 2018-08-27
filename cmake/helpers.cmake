@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if ( __cmake_helpers_included )
 	return ()
 endif ()

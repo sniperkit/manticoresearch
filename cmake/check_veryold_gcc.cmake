@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #cast away too old compiler
 if ( ${CMAKE_COMPILER_IS_GNUCXX} )
 	set ( _CHECK_OLDCOMPILER_SOURCE_CODE "

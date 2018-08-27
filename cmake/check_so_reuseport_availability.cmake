@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #find if SO_REUSEPORT flag is available
 set ( _CHECK_SO_REUSEPORT_PROG "
 #include <sys/types.h>

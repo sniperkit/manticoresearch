@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Automatically added by build_trusty.cmake
 if [ -x "@SYSCONFDIR@/init.d/manticore" ] || [ -e "@SYSCONFDIR@/init/manticore.conf" ]; then
 	if [ ! -e "@SYSCONFDIR@/init/manticore.conf" ]; then

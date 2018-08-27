@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- xenial ----------
 # Above line is mandatory!
 # rules to build deb package for Ubuntu 16.04 (xenial)

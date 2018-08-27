@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Automatically added by build_xenial.cmake
 if [ " $1" = "configure" ] || [ "$1" = "abort-upgrade" ]; then
 	if [ -x "@SYSCONFDIR@/init.d/manticore" ]; then

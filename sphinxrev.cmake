@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # this cmake file fully replaces all old things like svnxrev, hgxrev, etc scripts.
 cmake_minimum_required ( VERSION 2.8 )
 if ( CMAKE_VERSION VERSION_GREATER "3.1" )

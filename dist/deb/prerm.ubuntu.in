@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #!/bin/sh
 set -e
 # Automatically added by build_xenial, build_trusty

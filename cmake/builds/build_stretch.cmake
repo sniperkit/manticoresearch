@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- stretch ----------
 # Above line is mandatory!
 # rules to build deb package for Debian stretch

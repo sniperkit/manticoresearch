@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Helper script - scans cmake/builds for concrete distr rules.
 # Rules for each distr must be placed in separate .cmake file.
 # Each file with rule must be named asd build_*.cmake (that is used to find them).

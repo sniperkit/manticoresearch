@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # ---------- wheezy ----------
 # Above line is mandatory!
 # rules to build deb package for Debian wheezy

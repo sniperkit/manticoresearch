@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Automatically added by build_{wheezy|jessie}.cmake
 if [ -x "@SYSCONFDIR@/init.d/manticore" ]; then
 	update-rc.d manticore defaults >/dev/null

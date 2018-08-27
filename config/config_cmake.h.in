@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 /* Striped config.h.in especially for cmake.  */
 
 /* Define to use the just-compiled grammar (will be defined if we have bison available). */

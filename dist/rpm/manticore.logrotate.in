@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 @LOCALSTATEDIR@/log/manticore/*.log {
        weekly
        rotate 10

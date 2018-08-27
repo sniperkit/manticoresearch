@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - Find STEMMER library
 # Find the native STEMMER includes and library
 # This module defines

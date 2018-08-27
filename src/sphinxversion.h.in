@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 // this is the main place where version number is defined
 #define VERNUMBERS "2.7.2"
 

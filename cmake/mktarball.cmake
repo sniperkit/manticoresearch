@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include ( "${BINARY_DIR}/config/CPackOptions.cmake" )
 
 macro( packbis src )

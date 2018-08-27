@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 dnl this file has to be processed by autoconf
 AC_PREREQ(2.59)
 
